@@ -52,7 +52,7 @@
   <string name="prompt_pubkey_password">Wachtwoord voor sleutel \'%1$s\'</string>
   <string name="prompt_allow_agent_to_use_key">Sta host toe om \'%1$s\' \nsleutel te gebruiken ?</string>
   <string name="host_verification_failure_warning_header">WAARSCHUWING: REMOTE HOST IDENTIFICATIE IS VERANDERD!</string>
-  <string name="host_verification_failure_warning">HET IS MOGELIJK DAT IEMAND ONGEWILD BEZIG IS!\nIemand kan nu misschien mee kijken met wat je aan het doen bent (man-in-the-middle attack)!\nHet is ook mogelijk dat de host sleutel veranderd is.</string>
+  <string name="host_verification_failure_warning">HET IS MOGELIJK DAT IEMAND KWAADWILLEND BEZIG IS!\nIemand kan nu misschien mee kijken met wat je aan het doen bent (man-in-the-middle attack)!\nHet is ook mogelijk dat de host sleutel veranderd is.</string>
   <string name="prompt_host_disconnected">Host heeft de verbinding verbroken.\nSessie afsluiten?</string>
   <string name="prompt_continue_connecting">Weet je zeker dat je\nwilt doorgaan met verbinden?</string>
   <string name="host_authenticity_warning">De authenticatie van host \'%1$s\' kan niet worden vastgesteld.</string>
@@ -139,7 +139,7 @@
   <string name="console_menu_paste">Plak</string>
   <string name="console_menu_portforwards">Port Forwards</string>
   <string name="console_menu_resize">Forceer grootte</string>
-  <string name="console_menu_urlscan">URK Scan</string>
+  <string name="console_menu_urlscan">URL Scan</string>
   <string name="button_yes">Ja</string>
   <string name="button_no">Nee</string>
   <string name="portforward_local">Lokaal</string>
@@ -199,7 +199,7 @@
   <string name="terminal_auth_fail">[Uw host ondersteund \'wachtwoord\' of \'keyboard-interactive\' authenticatie niet.]</string>
   <string name="terminal_no_session">Sessie zal niet gestart worden door host instelling</string>
   <string name="terminal_enable_portfoward">Activeer port forward: %1$s</string>
-  <string name="local_shell_unavailable">Mislukking! Lokale shell is niet beschikbaar op deze telefoon.</string>
+  <string name="local_shell_unavailable">Mislukt! Lokale shell is niet beschikbaar op deze telefoon.</string>
   <string name="notification_text">%1$s wil je aandacht.</string>
   <string name="upgrade">Nieuwe versie</string>
   <string name="upgrade_pos">Ja, upgrade</string>
